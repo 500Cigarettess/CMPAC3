@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_tew2_seb/l_teeth"
+	"$bumpmap" "models/mj_tew2_seb/mouth_n"
+	
+	
+                 $halflambert "1"
+$nocull 1
+"$phong" "1" 
+                 "$phongexponent" "35"
+                 "$phongboost" "0.4"
+                 "$phongfresnelranges" "[.83 .83 .83 ]"
+               
+                 
+                 "$rimlight" "0" 
+                 "$rimlightexponent" "0.01" 
+                 "$rimlightboost" "0.02" 
+}
+
