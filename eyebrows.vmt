@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_tew2_seb/eyebrows"
+	"$translucent" "1"
+	
+	
+                 $halflambert "0"
+$nocull 1
+"$phong" "0" 
+                 "$phongexponent" "35"
+                 "$phongboost" "0.4"
+                 "$phongfresnelranges" "[.83 .83 .83 ]"
+
+}
+
