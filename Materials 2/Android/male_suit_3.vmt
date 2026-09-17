@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\ciber_life\male_suit_3"
+	"$halflambert" "1"
+}

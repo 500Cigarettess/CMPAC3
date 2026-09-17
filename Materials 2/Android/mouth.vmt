@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ciber_life\mouth"
+	"$halflambert" 1
+	"$nocull" 1
+}
